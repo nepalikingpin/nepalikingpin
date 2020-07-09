@@ -16,4 +16,4 @@ Hi, I'm Manish Bhattarai, a motivated science student who is always ready to fac
 - 💬 Ask me about anything [here](https://twitter.com/mni_shh)
 
 
-![Manish's github stats](https://github-readme-stats.vercel.app/api?username=nepalikingpin&show_icons=true)
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nepalikingpin&show_icons=true)
