@@ -8,8 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Manish Bhattarai, a motivated sciencestudent who is alwaysready to face and solveproblems as fast as possible. An enthusiastprogrammer who likes tosolve real-life problemsthrough the help of Computer Programming
-Language.
+Hi, I'm Manish Bhattarai, a motivated science student who is always ready to face and solve problems as fast as possible. An enthusiast programmer who likes to solve real-life problems through the help of Computer Programming Language.
 
 
 - :100: Take a look at my portfolio site: https://maneesh.com.np
@@ -17,4 +16,4 @@ Language.
 - 💬 Ask me about anything [here](https://twitter.com/mni_shh)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nepalikingpin&show_icons=true)
+![Manish's github stats](https://github-readme-stats.vercel.app/api?username=nepalikingpin&show_icons=true)
