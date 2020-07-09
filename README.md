@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/mni_shh">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/nepalikingpin/nepalikingpin/master/assets/twitter.svg" />
+  <img align="left" alt="Manish Bhattarai | Twitter" width="21px" src="https://raw.githubusercontent.com/nepalikingpin/nepalikingpin/master/assets/twitter.svg" />
 </a>
 
 <br />
