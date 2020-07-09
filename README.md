@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Manish! 👋
 
-<!--
-**nepalikingpin/nepalikingpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/mni_shh">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/nepalikingpin/nepalikingpin/master/assets/twitter.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+Hi, I'm Manish Bhattarai, a motivated sciencestudent who is alwaysready to face and solveproblems as fast as possible. An enthusiastprogrammer who likes tosolve real-life problemsthrough the help of Computer Programming
+Language.
+
+
+- :100: Take a look at my portfolio site: https://maneesh.com.np
+- 🌱 I’m currently learning React and Django
+- 💬 Ask me about anything [here](https://twitter.com/mni_shh)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nepalikingpin&show_icons=true)
