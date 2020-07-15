@@ -15,5 +15,12 @@ Hi, I'm Manish Bhattarai, a motivated science student who is always ready to fac
 - 🌱 I’m currently learning React and Django
 - 💬 Ask me about anything [here](https://twitter.com/mni_shh)
 
+[![Manish's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=nepalikingpin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nepalikingpin&show_icons=true)
+<a href="https://github.com/nepalikingpin/hajirijawaf">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nepalikingpin&repo=hajirijawaf&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/nepalikingpin/LearningMATLAB">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nepalikingpin&repo=learningmatlab&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
